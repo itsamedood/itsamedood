@@ -4,13 +4,15 @@
 > # Here's all the languages I can write (so far):
 >> ```txt
 >> 
->> - C
->> 
+>> - C++
+>>
 >> - Python
 >> 
 >> - Java
 >> 
 >> - JavaScript
+>> 
+>> - TypeScript
 >> 
 >> - Haxe
 >> 
