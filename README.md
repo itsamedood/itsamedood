@@ -22,10 +22,8 @@
 >> 
 >> - COBOL
 >> ```
->
-> # **LINKS:**
-> ## 👨‍💻 [My Discord Server!](https://discord.gg/GW4uAx6fvv)
+>>
+> ## **LINKS:**
+> ## `My Discord Server:` *https://discord.gg/GW4uAx6fvv*
 > ##
-> ## 🛠 [My development team!](https://github.com/doodvelopment-Inc)
-> ##
-> ## 💬 [My Twitter!](https://twitter.com/itsamedood)
+> ## `My Twitch: ` *https://twitch.tv/itsamedood*
