@@ -1,7 +1,7 @@
 [![twitter](https://img.shields.io/badge/-itsamedood-0D1117?logo=twitter&style=for-the-badge)](https://twitter.com/itsamedood)
 [![twitch](https://img.shields.io/badge/-itsamedood-0D1117?logo=twitch&style=for-the-badge)](https://twitch.gg/itsamedood)
 [![discord](https://img.shields.io/badge/-dood's_Hotel-0D1117?logo=discord&style=for-the-badge)](https://discord.gg/GW4uAx6fvv)
-# **its-a-me, dood!**
+# **its-a-me, dood!** <!-- If you're reading this for whatever reason, my name is in some of my code & licenses if you look hard enough ;) -->
 > ## I code games, apps, and other little random things here and there 🙃
 >
 > **Languages I know:** `[ JavaScript/TypeScript, Python, Haxe, Bash ];`
