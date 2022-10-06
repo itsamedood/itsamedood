@@ -4,11 +4,11 @@
 # **its-a-me, dood!** <!-- If you're reading this for whatever reason, my name is in some of my code & licenses if you look hard enough ;) -->
 > ## I code games, apps, and other little random things here and there 🙃
 >
-> **Languages I know:** `[ JavaScript/TypeScript, Python, Haxe, Bash ];`
+> **Languages I know:** `[ Python, Haxe, JavaScript & TypeScript, and Bash ];`
 >
-> **Languages I somewhat know:** `[ Java, Lua, COBOL ];`
+> **Languages I somewhat know:** `[ Java, Lua, COBOL, and Rust ];`
 >
-> **Languages I'm trying to learn (ordered by priority):** `[ Rust, Ruby, C/C++, Perl ];`
+> **Languages I'm trying to learn (ordered by priority):** `[ Ruby, C/C++, PowerShell, and Perl ];`
 > 
 > [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsamedood&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 >
