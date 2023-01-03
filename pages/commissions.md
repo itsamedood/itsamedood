@@ -45,4 +45,4 @@
 >
 > • Support for 4 weeks.
 
-*If you have any questions, DM me and I'll get back ASAP! My timezone is EST, and I'm a senior in highschool, plus I do music in my free time, so forgive me if I can't always respond immediately.*
+*If you have any questions, DM me (itsamedood#1933) and I'll get back ASAP! My timezone is EST, and I'm a senior in highschool, plus I do music in my free time, so forgive me if I can't always respond immediately.*

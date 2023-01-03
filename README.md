@@ -5,7 +5,6 @@
     <a href="./pages/commissions.md"><img src="https://img.shields.io/static/v1?label=Discord Bot Commissions&message=:)&color=green&style=for-the-badge"></a><br>
     <a href="https://twitter.com/itsamedood"><img src="https://img.shields.io/badge/-itsamedood-0D1117?logo=twitter&style=for-the-badge"></a>
     <a href="https://twitch.gg/itsamedood"><img src="https://img.shields.io/badge/-itsamedood-0D1117?logo=twitch&style=for-the-badge"></a>
-    <a href="https://discord.gg/GW4uAx6fvv"><img src="https://img.shields.io/badge/-dood's_Hotel-0D1117?logo=discord&style=for-the-badge"></a>
 </div>
 
 <div align="center">
