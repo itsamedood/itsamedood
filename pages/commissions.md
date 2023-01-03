@@ -22,19 +22,27 @@
 # **Packages**
 > ## **Basic Package (\$5)**
 > • `ping` command, and 3 more of your choice (optional).
+>
 > • `ready` and `interactionCreate` events, and one more of your choice (optional).
+>
 > • Support for 3 days.
 >
 > ## **Advanced Package (\$10)**
 > • `ping` command, and 5 more of your choice (optional).
+>
 > • `ready` and `interactionCreate` events, and 3 more of your choice (optional).
+>
 > • Handlers for buttons and select menus.
+>
 > • Support for 1 week.
 >
 > ## **Premium Package (\$20)**
 > • `ping` command, and 10 more of your choice (optional).
+>
 > • `ready` and `interactionCreate` events, and 7 more of your choice (optional).
+>
 > • Handlers for buttons, select menus, context menus, and modals.
+>
 > • Support for 4 weeks.
 
 *If you have any questions, DM me and I'll get back ASAP! My timezone is EST, and I'm a senior in highschool, plus I do music in my free time, so forgive me if I can't always respond immediately.*
