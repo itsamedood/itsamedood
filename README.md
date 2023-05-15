@@ -2,7 +2,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="300">
     <p>its-a-me, dood!</p><br>
-    <a href="./pages/commissions.md"><img src="https://img.shields.io/static/v1?label=Discord Bot Commissions&message=:)&color=green&style=for-the-badge"></a><br>
+<!--     <a href="./pages/commissions.md"><img src="https://img.shields.io/static/v1?label=Discord Bot Commissions&message=:)&color=green&style=for-the-badge"></a><br> -->
     <a href="https://twitter.com/itsamedood"><img src="https://img.shields.io/badge/-itsamedood-0D1117?logo=twitter&style=for-the-badge"></a>
     <a href="https://twitch.gg/itsamedood"><img src="https://img.shields.io/badge/-itsamedood-0D1117?logo=twitch&style=for-the-badge"></a>
 </div>
