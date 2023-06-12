@@ -9,31 +9,36 @@
 
 <div align="center">
     <h1>About me</h1>
-    <p>I'm a programmer, drummer, and total nerd.</p>
+    <p>
+        Programmer, drummer, Monster addict.<br>
+        <i>Currently planning to go into the USMC to do cybersecurity.</i>
+    </p>
 </div>
 
 <div>
-    <h1>Skills:</h1>
+    <h3>Skills:</h3>
     <ul>
         <li>Python</li>
-        <li>JavaScript / TypeScript (Node.JS and Bun)</li>
+        <li>JavaScript / TypeScript</li>
         <li>Haxe</li>
-        <li>COBOL</li>
+        <li>C</li>
+<!--         <li>COBOL</li> -->
         <li>Bash</li>
         <h3>Libraries & Frameworks</h3>
+        <li>Node.JS</li>
         <li>HaxeFlixel</li>
         <li>Discord.JS</li>
-        <li>Pycord</li>
+<!--         <li>Pycord</li> -->
     </ul>
-    <h1>Currently learning:</h1>
-    <ul>
-        <li>Rust</li>
-        <li>C / C++</li>
-        <li>Kotlin</li>
-        <li>Ruby</li>
-        <li>Godot</li>
-        <li>Unreal Engine</li>
-    </ul>
+<!--     <h1>Currently learning:</h1> -->
+<!--     <ul> -->
+<!--         <li>Rust</li> -->
+<!--         <li>C / C++</li> -->
+<!--         <li>Kotlin</li> -->
+<!--         <li>Ruby</li> -->
+<!--         <li>Godot</li> -->
+<!--         <li>Unreal Engine</li> -->
+<!--     </ul> -->
 </div>
 
 <div align="left">
