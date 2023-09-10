@@ -21,24 +21,20 @@
         <li>Python</li>
         <li>JavaScript / TypeScript</li>
         <li>Haxe</li>
-        <li>C</li>
-<!--         <li>COBOL</li> -->
-        <li>Bash</li>
+        <li>Bash (a little bit)</li>
         <h3>Libraries & Frameworks</h3>
         <li>Node.JS</li>
+        <li>Bun</li>
         <li>HaxeFlixel</li>
         <li>Discord.JS</li>
-<!--         <li>Pycord</li> -->
     </ul>
-<!--     <h1>Currently learning:</h1> -->
-<!--     <ul> -->
-<!--         <li>Rust</li> -->
-<!--         <li>C / C++</li> -->
-<!--         <li>Kotlin</li> -->
-<!--         <li>Ruby</li> -->
-<!--         <li>Godot</li> -->
-<!--         <li>Unreal Engine</li> -->
-<!--     </ul> -->
+    <h3>Currently learning:</h3>
+    <ul>
+        <li>C#</li>
+        <li>C</li>
+        <li>Unity Engine</li>
+        <li>Rust</li>
+    </ul>
 </div>
 
 <div align="left">
