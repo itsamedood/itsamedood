@@ -18,22 +18,23 @@
 <div>
     <h3>Skills:</h3>
     <ul>
-        <li>Python</li>
-        <li>JavaScript / TypeScript</li>
-        <li>Haxe</li>
-        <li>Bash (a little bit)</li>
+        <li>🐍 Python</li>
+        <li>📜 JavaScript / TypeScript</li>
+        <li>🔶 Haxe</li>
+        <li>🧠 Brainf**ck (lol)</li>
+        <li>🐚 Bash (a little bit)</li>
         <h3>Libraries & Frameworks</h3>
-        <li>Node.JS</li>
-        <li>Bun</li>
-        <li>HaxeFlixel</li>
-        <li>Discord.JS</li>
+        <li>🟩 Node.JS</li>
+        <li>🥟 Bun</li>
+        <li>🔷 HaxeFlixel</li>
+        <li>🤖 Discord.JS</li>
     </ul>
     <h3>Currently learning:</h3>
     <ul>
-        <li>C#</li>
-        <li>C</li>
-        <li>Unity Engine</li>
-        <li>Rust</li>
+        <li>👴 C</li>
+        <li>🦀 Rust</li>
+        <li>🔥 Unreal Engine</li>
+        <li>🤖 Godot Engine</li>
     </ul>
 </div>
 
