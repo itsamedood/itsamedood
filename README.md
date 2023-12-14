@@ -18,6 +18,7 @@
     <ul>
         <li>🐍 Python</li>
         <li>📜 JavaScript / TypeScript</li>
+        <li>🌑 Lua</li>
         <li>🔶 Haxe</li>
         <li>🧠 Brainf**ck (lol)</li>
         <li>🐚 Bash (a little bit)</li>
