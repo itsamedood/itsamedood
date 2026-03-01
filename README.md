@@ -1,9 +1,7 @@
 <!-- If you're reading this for whatever reason, my name is in some of my code & licenses if you look hard enough ;) -->
 <div align="center">
-    <!-- Just doing my part. F#ck Google. -->
-    <script src="https://keepandroidopen.org/banner.js?link=https://keepandroidopen.org/&hidebutton=off"></script>
     <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="300" />
-    <p>its-a-me, dood!</p><br>
+    <a href="https://keepandroidopen.org"><p>its-a-me, dood!</p></a><br>
 <!--     <a href="./pages/commissions.md"><img src="https://img.shields.io/static/v1?label=Discord Bot Commissions&message=:)&color=green&style=for-the-badge"></a><br> -->
 </div>
 
@@ -11,7 +9,7 @@
     <h1>About me</h1>
     <p>
         Programmer, drummer, Monster addict.<br>
-        <i>Currently planning to go into the USMC to do cybersecurity.</i>
+        <i>Looking for a tech job :/</i>
     </p>
 </div>
 
@@ -20,7 +18,7 @@
     <ul>
         <li>🐍 Python</li>
         <li>📜 JavaScript / TypeScript</li>
-        <li>🌑 Lua</li>
+        <li>🌑 Lua (some)</li>
         <li>🔶 Haxe</li>
         <li>🧠 Brainf**ck (lol)</li>
         <li>🐚 Bash (a little bit)</li>
@@ -34,8 +32,8 @@
     <ul>
         <li>👴 C</li>
         <li>🦀 Rust</li>
-        <li>🔥 Unreal Engine</li>
-        <li>🤖 Godot Engine</li>
+        <!-- <li>🔥 Unreal Engine</li>
+        <li>🤖 Godot Engine</li> -->
     </ul>
 </div>
 
