@@ -1,5 +1,7 @@
 <!-- If you're reading this for whatever reason, my name is in some of my code & licenses if you look hard enough ;) -->
 <div align="center">
+    <!-- Just doing my part. F#ck Google. -->
+    <script src="https://keepandroidopen.org/banner.js?link=https://keepandroidopen.org/&hidebutton=off"></script>
     <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="300" />
     <p>its-a-me, dood!</p><br>
 <!--     <a href="./pages/commissions.md"><img src="https://img.shields.io/static/v1?label=Discord Bot Commissions&message=:)&color=green&style=for-the-badge"></a><br> -->
